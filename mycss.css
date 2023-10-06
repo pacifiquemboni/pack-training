@@ -25,13 +25,13 @@ body{
 }
 /* sticky header*/
 
-.sticky{
+/*.sticky{
     position: fixed;
     top: 0;
     width: 85.5%;
     margin-right: 500px;
 }
-
+*/
 
 header{
     background-color: #21201e;
